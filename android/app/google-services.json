@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38367163897",
+    "firebase_url": "https://osontaxiuz-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "osontaxiuz",
+    "storage_bucket": "osontaxiuz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38367163897:android:46e63424c4c92103d53928",
+        "android_client_info": {
+          "package_name": "com.example.oson_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38367163897-511amffvm5j6vshmv958e4cg634r713j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Q9nAklraPAmgk6h-uUFR3GHVrfRhSNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38367163897-511amffvm5j6vshmv958e4cg634r713j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
